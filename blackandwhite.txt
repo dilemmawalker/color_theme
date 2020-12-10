@@ -17,11 +17,11 @@
     "workbench.colorTheme": "Visual Studio Dark",
     "workbench.colorCustomizations": {
 
-        "terminal.foreground": "#d3c3c3"
+       "sideBar.background": "#070606"
         "terminal.background": "#080808"
-        "editor.foreground": "#e0d7d7"
         "editor.background": "#070606"
-        "sideBar.background": "#070606"
+         "terminal.foreground": "#d3c3c3"
+        "editor.foreground": "#e0d7d7"
         "sideBar.foreground": "#cec9c9"
     },
     "editor.tokenColorCustomizations": {
