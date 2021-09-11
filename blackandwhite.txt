@@ -1,36 +1,21 @@
 {
-    "java.home": "C:\\Program Files\\Java\\jdk1.8.0_111",
-    "java.help.firstView": "gettingStarted",
-    "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "files.autoSave": "afterDelay",
-    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
-    "code-runner.runInTerminal": true,
-    "code-runner.saveFileBeforeRun": true,
-    "code-runner.saveAllFilesBeforeRun": true,
-    "java.errors.incompleteClasspath.severity": "ignore",
-    "java.configuration.checkProjectSettingsExclusions": false,
-    "git.allowForcePush": true,
-    "git.autofetch": true,
-    "git.enableCommitSigning": true,
-    "git.enableSmartCommit": true,
-    "workbench.colorTheme": "Visual Studio Dark",
+    "files.autoSaveDelay": 0,
     "workbench.colorCustomizations": {
 
-       "sideBar.background": "#070606"
-        "terminal.background": "#080808"
-        "editor.background": "#070606"
-         "terminal.foreground": "#d3c3c3"
-        "editor.foreground": "#e0d7d7"
-        "sideBar.foreground": "#cec9c9"
-    },
-    "editor.tokenColorCustomizations": {
-        "numbers":  "#e0d7d7"
-        "keywords":  "#e0d7d7"
-        "strings": "#e0d7d7"
-        "variables":  "#e0d7d7"
-        "functions":  "#e0d7d7"
-        "types": "#e0d7d7"
+        "sideBar.background": "#070606",
+         "terminal.background": "#080808",
+         "editor.background": "#070606",
+          "terminal.foreground": "#d3c3c3",
+         "editor.foreground": "#e0d7d7",
+         "sideBar.foreground": "#cec9c9"
+     },
+     "editor.tokenColorCustomizations": {
+        "numbers":  "#e0d7d7",
+        "keywords":  "#e0d7d7",
+        "strings": "#e0d7d7",
+        "variables":  "#e0d7d7",
+        "functions":  "#e0d7d7",
+        "types": "#e0d7d7",
         "textMateRules": [
            
             {
@@ -56,8 +41,53 @@
             },
         ]
     },
-    "window.zoomLevel": 0      ,
-    "workbench.iconTheme": "vscode-icons",
-   
-}
+    "settingsSync.keybindingsPerPlatform": false,
+    "files.autoSave": "onFocusChange",
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.suggest.showClasses": false,
+    "editor.suggest.showColors": false,
+    "editor.suggest.showConstants": false,
+    "editor.suggest.showConstructors": false,
+    "editor.suggest.showCustomcolors": false,
+    "editor.suggest.showEnumMembers": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggest.showVariables": false,
+    "editor.suggest.showWords": false,
+    "editor.suggest.showValues": false,
+    "editor.suggest.showUsers": false,
+    "editor.suggest.showUnits": false,
+    "editor.suggest.showTypeParameters": false,
+    "editor.suggest.showStructs": false,
+    "editor.suggest.showSnippets": false,
+    "editor.suggest.showReferences": false,
+    "editor.suggest.showProperties": false,
+    "editor.suggest.showOperators": false,
+    "editor.suggest.showModules": false,
+    "editor.suggest.showMethods": false,
+    "editor.suggest.showKeywords": false,
+    "editor.suggest.showIssues": false,
+    "editor.suggest.showInterfaces": false,
+    "editor.suggest.showInlineDetails": false,
+    "editor.suggest.showIcons": false,
+    "editor.suggest.showFunctions": false,
+    "editor.suggest.showFolders": false,
+    "editor.suggest.showFiles": false,
+    "editor.suggest.showFields": false,
+    "editor.suggest.showEvents": false,
+    "editor.suggest.showEnums": false,
+    "editor.suggest.showDeprecated": false,
+    "editor.suggest.filterGraceful": false,
+    "[json]": {
 
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "explorer.confirmDelete": false,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "http.proxyAuthorization": null,
+    
+}
